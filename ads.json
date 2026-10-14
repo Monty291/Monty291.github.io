@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "enabled": true,
+  "enabled": false,
   "platforms": {
     "mobile": {
       "homeRow": { "enabled": true, "maxPerScreen": 2, "position": 3 },
