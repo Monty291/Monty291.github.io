@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "enabled": false,
+  "platforms": {
+    "mobile": {
+      "homeRow": { "enabled": true, "maxPerScreen": 2, "position": 3 },
+      "posterGrid": { "enabled": true, "maxPerScreen": 3, "first": 12, "every": 24 },
+      "detailCard": { "enabled": true }
+    },
+    "tv": {
+      "homeRow": { "enabled": false }
+    },
+    "desktop": {
+      "homeRow": { "enabled": false }
+    }
+  }
+}
