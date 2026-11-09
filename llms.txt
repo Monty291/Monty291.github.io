@@ -1,0 +1,18 @@
+# Onda IPTV
+
+> Onda IPTV è un lettore IPTV per Android per servizi Xtream Codes e liste M3U: live TV con guida (EPG), film e serie in un’unica app. Non fornisce contenuti, canali né liste. / Onda IPTV is an Android IPTV player for Xtream Codes services and M3U playlists: live TV with a TV guide (EPG), movies and series in a single app. It does not provide any content, channels or playlists.
+
+Gratuita, con annunci non invasivi. Android 7.0 o successivo. Free, with non-intrusive ads. Android 7.0 or later.
+
+## App
+- [Google Play](https://play.google.com/store/apps/details?id=com.montys.iptvsmplayer): scarica l’app / get the app
+
+## Italiano
+- [Onda IPTV](https://monty291.github.io/): Onda IPTV: live TV con guida (EPG), film e serie in un’unica app per Android. Per servizi Xtream Codes e liste M3U. Disponibile su Google Play.
+- [Come si usa](https://monty291.github.io/guida/): guida all’uso
+- [Informativa sulla privacy](https://monty291.github.io/privacy/)
+
+## English
+- [Onda IPTV](https://monty291.github.io/en/): Onda IPTV: live TV with a TV guide (EPG), movies and series in a single Android app. For Xtream Codes services and M3U playlists. Available on Google Play.
+- [How to use](https://monty291.github.io/guide/): user guide
+- [Privacy policy](https://monty291.github.io/privacy/en/)
